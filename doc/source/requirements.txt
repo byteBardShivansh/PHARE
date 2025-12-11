@@ -1,7 +1,7 @@
 pandas
 appdirs
 requests
-urllib3>=1.26.0
+urllib3>=2.6.0
 packaging
 numpy
 python_dateutil
